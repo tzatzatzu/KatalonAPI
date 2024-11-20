@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CreateNewTas</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fd0b5040-9ca5-4c9e-ab8b-6055fadcf6c9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ba2c393d-64e2-42e5-befe-35727517db0a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7bae8401-73fa-44ae-813b-5f423865c63a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'KatalonMobileTesting'</defaultValue>
+      <description></description>
+      <id>ba2c393d-64e2-42e5-befe-35727517db0a</id>
+      <masked>false</masked>
+      <name>Tittle</name>
+   </variable>
+   <variable>
+      <defaultValue>'MobileTesting'</defaultValue>
+      <description></description>
+      <id>7bae8401-73fa-44ae-813b-5f423865c63a</id>
+      <masked>false</masked>
+      <name>Task</name>
+   </variable>
+</TestCaseEntity>

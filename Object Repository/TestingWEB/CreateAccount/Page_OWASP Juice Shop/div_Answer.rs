@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Answer</name>
+   <tag></tag>
+   <elementGuidId>313c3708-51a7-4ff6-93d7-72ca90a9a9b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-form-field-infix.ng-tns-c21-18</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='registration-form']/div/mat-form-field[2]/div/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Answer \*$/ >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a91daa0f-8c92-4ce8-86db-4bb77109e7b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-form-field-infix ng-tns-c21-18</value>
+      <webElementGuid>9acabe6c-8c0b-419f-838a-60aa2b02b149</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Answer *</value>
+      <webElementGuid>b0ffb71a-f2f6-4e14-a3b0-1491a67a06d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;registration-form&quot;)/div[@class=&quot;security-container&quot;]/mat-form-field[@class=&quot;mat-form-field ng-tns-c21-18 mat-accent mat-form-field-type-mat-input mat-form-field-appearance-outline mat-form-field-can-float mat-form-field-has-label mat-form-field-hide-placeholder ng-untouched ng-pristine ng-invalid ng-star-inserted&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c21-18&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c21-18&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c21-18&quot;]</value>
+      <webElementGuid>be6d1b1f-2499-46a4-91a0-6646610d627b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='registration-form']/div/mat-form-field[2]/div/div/div[3]</value>
+      <webElementGuid>3be83323-ad93-40ab-8a2d-5cda3ccde40d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This cannot be changed later!'])[1]/following::div[12]</value>
+      <webElementGuid>fd489be3-ff74-4b8a-83ce-089f2ae3118f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Security Question'])[1]/following::div[14]</value>
+      <webElementGuid>3c647a37-34c3-445a-bc63-54f1633e74f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/mat-form-field[2]/div/div/div[3]</value>
+      <webElementGuid>69401cc9-d986-47fb-b271-723af47a0242</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Answer *' or . = 'Answer *')]</value>
+      <webElementGuid>158df640-c13b-4f0f-9fb9-091ba025d5c0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

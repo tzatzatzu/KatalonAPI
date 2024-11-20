@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-AddBasket</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>17b54ff5-1fdd-4a42-9b09-d6cf3bf194ef</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fddb3329-4e3c-446d-a5bf-64f26d8fcfa0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>efe9df07-70b6-4565-881d-83a7df2846b6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'testingweb@gmail.com'</defaultValue>
+      <description></description>
+      <id>fddb3329-4e3c-446d-a5bf-64f26d8fcfa0</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Puc6xyeJOtATIOfTce6k/w=='</defaultValue>
+      <description></description>
+      <id>efe9df07-70b6-4565-881d-83a7df2846b6</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

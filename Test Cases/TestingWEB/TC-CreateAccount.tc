@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-CreateAccount</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6f993cc7-6391-41a7-aad5-562b1b980eaa</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c93db7ca-5178-45fe-b8f4-a40c6fd02489</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>35865305-6919-48a9-989c-40c57a6bd0ad</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'testingweb@gmail.com'</defaultValue>
+      <description></description>
+      <id>c93db7ca-5178-45fe-b8f4-a40c6fd02489</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Puc6xyeJOtATIOfTce6k/w=='</defaultValue>
+      <description></description>
+      <id>35865305-6919-48a9-989c-40c57a6bd0ad</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

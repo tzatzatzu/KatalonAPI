@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-InputEmail</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fc5e9f30-f0c7-41bc-9316-6552454be514</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ef5e8908-c41e-4441-9f39-ad6b26193a02</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b530068c-01db-4feb-92f3-5be2a3db8a09</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'testingweb@gmail.com'</defaultValue>
+      <description></description>
+      <id>ef5e8908-c41e-4441-9f39-ad6b26193a02</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Puc6xyeJOtATIOfTce6k/w=='</defaultValue>
+      <description></description>
+      <id>b530068c-01db-4feb-92f3-5be2a3db8a09</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
